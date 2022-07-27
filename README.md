@@ -3,9 +3,9 @@ Welp, my name is Caleb! I am a free lance coder that puts his hand into the cook
 
 #### My Rad Skillz
 
-> Web Design & Development <sub>`(JS, HTML, CSS, PHP, MySQL, & Python)`</sub>
+> Web Design & Development - `(JS, HTML, CSS, PHP, MySQL, & Python)`
 
-> Getting Low <sub>Java, C#, & C++</sub>
+> Getting Low - `Java, C#, & C++`
 
 <!---
 cccs16/cccs16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
